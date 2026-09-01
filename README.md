@@ -1,1 +1,1 @@
-This project uses machine learning to predict house prices based on various features such as area, number of bedrooms, location, etc. It's built using Python and popular libraries like Pandas, scikit-learn, and Matplotlib.4uii4ii4rjbdidi
+This project uses machine learning to predict house prices based on various features such as area, number of bedrooms, location, etc. It's built using Python and popular libraries like Pandas, scikit-learn, and Matplotlib.
